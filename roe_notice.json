@@ -1,1 +1,27 @@
-111
+{
+    "zh-TW": {
+        "startTime": "2024/04/12 18:00",
+        "endTime": "2024/04/13 18:00",
+        "content": "親愛的玩家，遊戲預計{0}進行升級，請玩家提早登出遊戲以免權益受損，預計{1}開放登入遊戲，感謝玩家們的配合。"
+    },
+    "zh-CN": {
+        "startTime": "2024/04/12 18:00",
+        "endTime": "2024/04/13 18:00",
+        "content": "亲爱的玩家，游戏预计{0}进行升级，请玩家提前登出游戏以免权益受损，预计{1}开放登录游戏，感谢玩家们的配合。"
+    },    
+    "en": {
+        "startTime": "2024/04/12 18:00",
+        "endTime": "2024/04/13 18:00",
+        "content": "Dear players, the game is scheduled to undergo an upgrade on {0}. Please log out of the game in advance to avoid any loss of benefits. The game is expected to be available for login on {1}. Thank you for your cooperation."
+    },    
+    "jp": {
+        "startTime": "2024/04/12 18:00",
+        "endTime": "2024/04/13 18:00",
+        "content": "親愛なるプレイヤーの皆様、ゲームのアップグレードが{0}に予定されています。利益の損失を避けるために、事前にログアウトしていただけますようお願い申し上げます。ゲームのログインは{1}に可能となる予定です。ご協力ありがとうございます。"
+    },    
+    "ko": {
+        "startTime": "2024/04/12 18:00",
+        "endTime": "2024/04/13 18:00",
+        "content": "친애하는 플레이어 여러분, 게임이 {0}에 업그레이드될 예정입니다. 이로 인한 이익 손실을 피하기 위해 미리 게임을 로그아웃해주시기 바랍니다. 게임 로그인은 {1}에 가능할 예정입니다. 플레이어 여러분의 협조에 감사드립니다."
+    }    
+}
