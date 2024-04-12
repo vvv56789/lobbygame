@@ -2,26 +2,26 @@
     "isMaintenance": {
         "dev": false,
         "pre": false,
-        "ol": true
+        "ol": false
     },
     "startTime": "2024/04/16 00:00",
     "endTime": "2024/04/17 00:00",
     "noticeList": [
         {
             "zh-TW": {
-                "content": "親愛的玩家，遊戲預計{0}進行升級，請玩家提早登出遊戲以免權益受損，預計{1}開放登入遊戲，感謝玩家們的配合。"
+                "content": "親愛的玩家，遊戲預計{0}進行升級，請玩家提早關閉遊戲以免權益受損，預計{1}開放進入遊戲，感謝玩家們的配合。"
             },
             "zh-CN": {
-                "content": "亲爱的玩家，游戏预计{0}进行升级，请玩家提前登出游戏以免权益受损，预计{1}开放登录游戏，感谢玩家们的配合。"
+                "content": "亲爱的玩家，游戏预计{0}进行升级，请玩家提前关闭游戏以免权益受损，预计{1}开放进入游戏，感谢玩家们的配合。"
             },
             "en": {
-                "content": "Dear players, the game is scheduled to undergo an upgrade on {0}. Please log out of the game in advance to avoid any loss of benefits. The game is expected to be available for login on {1}. Thank you for your cooperation."
+                "content": "Dear players, the game is scheduled to undergo an upgrade on {0}. Please close the game early to avoid any loss of benefits. It is expected to reopen for access on {1}. Thank you for your cooperation"
             },
             "jp": {
-                "content": "親愛なるプレイヤーの皆様、ゲームのアップグレードが{0}に予定されています。利益の損失を避けるために、事前にログアウトしていただけますようお願い申し上げます。ゲームのログインは{1}に可能となる予定です。ご協力ありがとうございます。"
+                "content": "親愛なるプレイヤーの皆様、ゲームは{0}にアップグレードされる予定です。ご利益の損失を避けるため、ゲームを早めに終了してください。ゲームへの再入場は{1}に予定されています。ご協力ありがとうございます。"
             },
             "ko": {
-                "content": "친애하는 플레이어 여러분, 게임이 {0}에 업그레이드될 예정입니다. 이로 인한 이익 손실을 피하기 위해 미리 게임을 로그아웃해주시기 바랍니다. 게임 로그인은 {1}에 가능할 예정입니다. 플레이어 여러분의 협조에 감사드립니다."
+                "content": "친애하는 플레이어 여러분, 게임은 {0}에 업그레이드될 예정입니다. 이로 인한 이익 손실을 피하기 위해 게임을 조기에 종료하십시오. 게임 접속은 {1}에 가능할 예정입니다. 플레이어 여러분의 협조에 감사드립니다."
             }
         }
     ]
