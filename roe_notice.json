@@ -1,28 +1,28 @@
 {
     "isMaintenance": {
         "dev": false,
-        "pre": true,
-        "ol": false
+        "pre": false,
+        "ol": true
     },
     "startTime": "2024/04/16 00:00",
     "endTime": "2024/04/17 00:00",
-    "noticeList":
-    [{
-        "zh-TW": {
-            "content": "親愛的玩家，遊戲預計{0}進行升級，請玩家提早關閉遊戲以免權益受損，預計{1}開放進入遊戲，感謝玩家們的配合。"
-        },
-        "zh-CN": {
-            "content": "亲爱的玩家，游戏预计{0}进行升级，请玩家提前关闭游戏以免权益受损，预计{1}开放进入游戏，感谢玩家们的配合。"
-        },    
-        "en": {
-            "content": "Dear players, the game is scheduled to undergo an upgrade on {0}. Please close the game early to avoid any loss of benefits. It is expected to reopen for access on {1}. Thank you for your cooperation"
-        },    
-        "jp": {
-            "content": "親愛なるプレイヤーの皆様、ゲームは{0}にアップグレードされる予定です。ご利益の損失を避けるため、ゲームを早めに終了してください。ゲームへの再入場は{1}に予定されています。ご協力ありがとうございます。"
-        },    
-        "ko": {
-            "content": "친애하는 플레이어 여러분, 게임은 {0}에 업그레이드될 예정입니다. 이로 인한 이익 손실을 피하기 위해 게임을 조기에 종료하십시오. 게임 접속은 {1}에 가능할 예정입니다. 플레이어 여러분의 협조에 감사드립니다."
-        }    
-    }]
-
+    "noticeList": [
+        {
+            "zh-TW": {
+                "content": "親愛的玩家，遊戲預計{0}進行升級，請玩家提早關閉遊戲以免權益受損，預計{1}開放進入遊戲，感謝玩家們的配合。"
+            },
+            "zh-CN": {
+                "content": "亲爱的玩家，游戏预计{0}进行升级，请玩家提前关闭游戏以免权益受损，预计{1}开放进入游戏，感谢玩家们的配合。"
+            },
+            "en": {
+                "content": "Dear players, the game is scheduled to undergo an upgrade on {0}. Please close the game early to avoid any loss of benefits. It is expected to reopen for access on {1}. Thank you for your cooperation"
+            },
+            "jp": {
+                "content": "親愛なるプレイヤーの皆様、ゲームは{0}にアップグレードされる予定です。ご利益の損失を避けるため、ゲームを早めに終了してください。ゲームへの再入場は{1}に予定されています。ご協力ありがとうございます。"
+            },
+            "ko": {
+                "content": "친애하는 플레이어 여러분, 게임은 {0}에 업그레이드될 예정입니다. 이로 인한 이익 손실을 피하기 위해 게임을 조기에 종료하십시오. 게임 접속은 {1}에 가능할 예정입니다. 플레이어 여러분의 협조에 감사드립니다."
+            }
+        }
+    ]
 }
